@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "vending_machine_interfaces__rs",
+		"source" : "/home/parimala/vending_machine_ws/build/vending_machine_interfaces/vending_machine_interfaces__rs"
+	}
+}

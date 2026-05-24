@@ -1,0 +1,8 @@
+setup.py
+vending_machine_interfaces/__init__.py
+vending_machine_interfaces.egg-info/PKG-INFO
+vending_machine_interfaces.egg-info/SOURCES.txt
+vending_machine_interfaces.egg-info/dependency_links.txt
+vending_machine_interfaces.egg-info/top_level.txt
+vending_machine_interfaces/srv/__init__.py
+vending_machine_interfaces/srv/_vending_machine.py

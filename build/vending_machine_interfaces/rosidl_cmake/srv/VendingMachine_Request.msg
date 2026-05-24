@@ -1,0 +1,3 @@
+string selected_item
+float64 amount_inserted
+string superhero_choice

@@ -1,0 +1,4 @@
+[console_scripts]
+vending_client = vending_machine.vending_client:main
+vending_server = vending_machine.vending_server:main
+

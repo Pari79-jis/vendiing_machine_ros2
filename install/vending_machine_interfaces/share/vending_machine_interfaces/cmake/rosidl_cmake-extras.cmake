@@ -1,0 +1,1 @@
+/home/parimala/vending_machine_ws/build/vending_machine_interfaces/rosidl_cmake/rosidl_cmake-extras.cmake

@@ -1,0 +1,22 @@
+[0.453s] Invoking command in '/home/parimala/vending_machine_ws/src/vending_machine': PYTHONPATH=/home/parimala/vending_machine_ws/build/vending_machine/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parimala/vending_machine_ws/install/vending_machine/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vending_machine build --build-base /home/parimala/vending_machine_ws/build/vending_machine/build install --record /home/parimala/vending_machine_ws/build/vending_machine/install.log --single-version-externally-managed install_data
+[0.624s] running egg_info
+[0.624s] writing ../../build/vending_machine/vending_machine.egg-info/PKG-INFO
+[0.624s] writing dependency_links to ../../build/vending_machine/vending_machine.egg-info/dependency_links.txt
+[0.624s] writing entry points to ../../build/vending_machine/vending_machine.egg-info/entry_points.txt
+[0.624s] writing requirements to ../../build/vending_machine/vending_machine.egg-info/requires.txt
+[0.624s] writing top-level names to ../../build/vending_machine/vending_machine.egg-info/top_level.txt
+[0.625s] reading manifest file '../../build/vending_machine/vending_machine.egg-info/SOURCES.txt'
+[0.626s] writing manifest file '../../build/vending_machine/vending_machine.egg-info/SOURCES.txt'
+[0.626s] running build
+[0.626s] running build_py
+[0.626s] running install
+[0.626s] running install_lib
+[0.627s] running install_data
+[0.627s] running install_egg_info
+[0.628s] removing '/home/parimala/vending_machine_ws/install/vending_machine/lib/python3.10/site-packages/vending_machine-1.0.0-py3.10.egg-info' (and everything under it)
+[0.628s] Copying ../../build/vending_machine/vending_machine.egg-info to /home/parimala/vending_machine_ws/install/vending_machine/lib/python3.10/site-packages/vending_machine-1.0.0-py3.10.egg-info
+[0.629s] running install_scripts
+[0.642s] Installing vending_client script to /home/parimala/vending_machine_ws/install/vending_machine/lib/vending_machine
+[0.642s] Installing vending_server script to /home/parimala/vending_machine_ws/install/vending_machine/lib/vending_machine
+[0.643s] writing list of installed files to '/home/parimala/vending_machine_ws/build/vending_machine/install.log'
+[0.657s] Invoked command in '/home/parimala/vending_machine_ws/src/vending_machine' returned '0': PYTHONPATH=/home/parimala/vending_machine_ws/build/vending_machine/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parimala/vending_machine_ws/install/vending_machine/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vending_machine build --build-base /home/parimala/vending_machine_ws/build/vending_machine/build install --record /home/parimala/vending_machine_ws/build/vending_machine/install.log --single-version-externally-managed install_data

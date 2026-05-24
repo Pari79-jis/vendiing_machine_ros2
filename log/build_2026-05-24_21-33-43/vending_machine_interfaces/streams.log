@@ -1,0 +1,159 @@
+[0.008s] Invoking command in '/home/parimala/vending_machine_ws/build/vending_machine_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parimala/ros2_ws/install/launch_testing_examples:/home/parimala/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/parimala/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/parimala/ros2_ws/install/examples_rclpy_minimal_service:/home/parimala/ros2_ws/install/examples_rclpy_minimal_publisher:/home/parimala/ros2_ws/install/examples_rclpy_minimal_client:/home/parimala/ros2_ws/install/examples_rclpy_minimal_action_server:/home/parimala/ros2_ws/install/examples_rclpy_minimal_action_client:/home/parimala/ros2_ws/install/examples_rclpy_guard_conditions:/home/parimala/ros2_ws/install/examples_rclpy_executors:/home/parimala/ros2_ws/install/even_odd_numbers:/opt/ros/humble /usr/bin/cmake /home/parimala/vending_machine_ws/src/vending_machine_interfaces -DCMAKE_INSTALL_PREFIX=/home/parimala/vending_machine_ws/install/vending_machine_interfaces
+[0.016s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.120s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.124s] -- Found rosidl_default_generators: 1.2.1 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.126s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.128s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.148s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.384s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.579s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.816s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.844s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.875s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.875s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.875s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.955s] -- Configuring done
+[0.971s] -- Generating done
+[0.977s] -- Build files have been written to: /home/parimala/vending_machine_ws/build/vending_machine_interfaces
+[0.982s] Invoked command in '/home/parimala/vending_machine_ws/build/vending_machine_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parimala/ros2_ws/install/launch_testing_examples:/home/parimala/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/parimala/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/parimala/ros2_ws/install/examples_rclpy_minimal_service:/home/parimala/ros2_ws/install/examples_rclpy_minimal_publisher:/home/parimala/ros2_ws/install/examples_rclpy_minimal_client:/home/parimala/ros2_ws/install/examples_rclpy_minimal_action_server:/home/parimala/ros2_ws/install/examples_rclpy_minimal_action_client:/home/parimala/ros2_ws/install/examples_rclpy_guard_conditions:/home/parimala/ros2_ws/install/examples_rclpy_executors:/home/parimala/ros2_ws/install/even_odd_numbers:/opt/ros/humble /usr/bin/cmake /home/parimala/vending_machine_ws/src/vending_machine_interfaces -DCMAKE_INSTALL_PREFIX=/home/parimala/vending_machine_ws/install/vending_machine_interfaces
+[0.983s] Invoking command in '/home/parimala/vending_machine_ws/build/vending_machine_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parimala/ros2_ws/install/launch_testing_examples:/home/parimala/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/parimala/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/parimala/ros2_ws/install/examples_rclpy_minimal_service:/home/parimala/ros2_ws/install/examples_rclpy_minimal_publisher:/home/parimala/ros2_ws/install/examples_rclpy_minimal_client:/home/parimala/ros2_ws/install/examples_rclpy_minimal_action_server:/home/parimala/ros2_ws/install/examples_rclpy_minimal_action_client:/home/parimala/ros2_ws/install/examples_rclpy_guard_conditions:/home/parimala/ros2_ws/install/examples_rclpy_executors:/home/parimala/ros2_ws/install/even_odd_numbers:/opt/ros/humble /usr/bin/cmake --build /home/parimala/vending_machine_ws/build/vending_machine_interfaces -- -j16 -l16
+[1.027s] [35m[1mConsolidate compiler generated dependencies of target vending_machine_interfaces__rosidl_generator_c[0m
+[1.031s] [  3%] Built target vending_machine_interfaces__rs
+[1.031s] [  6%] Built target vending_machine_interfaces__cpp
+[1.038s] [ 15%] Built target vending_machine_interfaces__rosidl_generator_c
+[1.040s] [35m[1mConsolidate compiler generated dependencies of target vending_machine_interfaces__rosidl_typesupport_introspection_cpp[0m
+[1.040s] [35m[1mConsolidate compiler generated dependencies of target vending_machine_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[1.047s] [35m[1mConsolidate compiler generated dependencies of target vending_machine_interfaces__rosidl_typesupport_cpp[0m
+[1.050s] [ 15%] Built target ament_cmake_python_symlink_vending_machine_interfaces
+[1.050s] [35m[1mConsolidate compiler generated dependencies of target vending_machine_interfaces__rosidl_typesupport_introspection_c[0m
+[1.056s] [ 25%] Built target vending_machine_interfaces__rosidl_typesupport_introspection_cpp
+[1.056s] [35m[1mConsolidate compiler generated dependencies of target vending_machine_interfaces__rosidl_typesupport_c[0m
+[1.056s] [35m[1mConsolidate compiler generated dependencies of target vending_machine_interfaces__rosidl_typesupport_fastrtps_c[0m
+[1.057s] [ 34%] Built target vending_machine_interfaces__rosidl_typesupport_fastrtps_cpp
+[1.062s] [ 43%] Built target vending_machine_interfaces__rosidl_typesupport_cpp
+[1.062s] [ 53%] Built target vending_machine_interfaces__rosidl_typesupport_introspection_c
+[1.066s] [ 62%] Built target vending_machine_interfaces__rosidl_typesupport_c
+[1.071s] [ 71%] Built target vending_machine_interfaces__rosidl_typesupport_fastrtps_c
+[1.089s] [ 71%] Built target vending_machine_interfaces
+[1.107s] [ 75%] Built target vending_machine_interfaces__py
+[1.114s] [35m[1mConsolidate compiler generated dependencies of target vending_machine_interfaces__rosidl_generator_py[0m
+[1.125s] [ 81%] Built target vending_machine_interfaces__rosidl_generator_py
+[1.133s] [35m[1mConsolidate compiler generated dependencies of target vending_machine_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[1.133s] [35m[1mConsolidate compiler generated dependencies of target vending_machine_interfaces__rosidl_typesupport_c__pyext[0m
+[1.133s] [35m[1mConsolidate compiler generated dependencies of target vending_machine_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[1.143s] [ 87%] Built target vending_machine_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[1.143s] [100%] Built target vending_machine_interfaces__rosidl_typesupport_introspection_c__pyext
+[1.143s] [100%] Built target vending_machine_interfaces__rosidl_typesupport_c__pyext
+[1.243s] running egg_info
+[1.243s] writing vending_machine_interfaces.egg-info/PKG-INFO
+[1.243s] writing dependency_links to vending_machine_interfaces.egg-info/dependency_links.txt
+[1.243s] writing top-level names to vending_machine_interfaces.egg-info/top_level.txt
+[1.244s] reading manifest file 'vending_machine_interfaces.egg-info/SOURCES.txt'
+[1.245s] writing manifest file 'vending_machine_interfaces.egg-info/SOURCES.txt'
+[1.263s] [100%] Built target ament_cmake_python_build_vending_machine_interfaces_egg
+[1.272s] Invoked command in '/home/parimala/vending_machine_ws/build/vending_machine_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parimala/ros2_ws/install/launch_testing_examples:/home/parimala/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/parimala/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/parimala/ros2_ws/install/examples_rclpy_minimal_service:/home/parimala/ros2_ws/install/examples_rclpy_minimal_publisher:/home/parimala/ros2_ws/install/examples_rclpy_minimal_client:/home/parimala/ros2_ws/install/examples_rclpy_minimal_action_server:/home/parimala/ros2_ws/install/examples_rclpy_minimal_action_client:/home/parimala/ros2_ws/install/examples_rclpy_guard_conditions:/home/parimala/ros2_ws/install/examples_rclpy_executors:/home/parimala/ros2_ws/install/even_odd_numbers:/opt/ros/humble /usr/bin/cmake --build /home/parimala/vending_machine_ws/build/vending_machine_interfaces -- -j16 -l16
+[1.284s] Invoking command in '/home/parimala/vending_machine_ws/build/vending_machine_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parimala/ros2_ws/install/launch_testing_examples:/home/parimala/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/parimala/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/parimala/ros2_ws/install/examples_rclpy_minimal_service:/home/parimala/ros2_ws/install/examples_rclpy_minimal_publisher:/home/parimala/ros2_ws/install/examples_rclpy_minimal_client:/home/parimala/ros2_ws/install/examples_rclpy_minimal_action_server:/home/parimala/ros2_ws/install/examples_rclpy_minimal_action_client:/home/parimala/ros2_ws/install/examples_rclpy_guard_conditions:/home/parimala/ros2_ws/install/examples_rclpy_executors:/home/parimala/ros2_ws/install/even_odd_numbers:/opt/ros/humble /usr/bin/cmake --install /home/parimala/vending_machine_ws/build/vending_machine_interfaces
+[1.295s] -- Install configuration: ""
+[1.296s] -- Execute custom install script
+[1.296s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/ament_index/resource_index/rosidl_interfaces/vending_machine_interfaces
+[1.296s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/msg/rosidl_generator_c__visibility_control.h
+[1.296s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/detail/vending_machine__functions.h
+[1.296s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/detail/vending_machine__struct.h
+[1.297s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/detail/vending_machine__type_support.h
+[1.297s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/vending_machine.h
+[1.297s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/environment/library_path.sh
+[1.297s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/environment/library_path.dsv
+[1.297s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.298s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/detail/vending_machine__rosidl_typesupport_fastrtps_c.h
+[1.298s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.298s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/detail/vending_machine__rosidl_typesupport_introspection_c.h
+[1.298s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.298s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/detail/vending_machine__builder.hpp
+[1.298s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/detail/vending_machine__struct.hpp
+[1.299s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/detail/vending_machine__traits.hpp
+[1.299s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/detail/vending_machine__type_support.hpp
+[1.299s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/vending_machine.hpp
+[1.299s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.299s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/detail/vending_machine__rosidl_typesupport_fastrtps_cpp.hpp
+[1.300s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/include/vending_machine_interfaces/vending_machine_interfaces/srv/detail/vending_machine__rosidl_typesupport_introspection_cpp.hpp
+[1.300s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/environment/pythonpath.sh
+[1.300s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/environment/pythonpath.dsv
+[1.300s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces-1.0.0-py3.10.egg-info/PKG-INFO
+[1.300s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces-1.0.0-py3.10.egg-info/SOURCES.txt
+[1.300s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces-1.0.0-py3.10.egg-info/dependency_links.txt
+[1.300s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces-1.0.0-py3.10.egg-info/top_level.txt
+[1.301s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/__init__.py
+[1.301s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/_vending_machine_interfaces_s.ep.rosidl_typesupport_c.c
+[1.301s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/_vending_machine_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.301s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/_vending_machine_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[1.301s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/libvending_machine_interfaces__rosidl_generator_py.so
+[1.301s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/srv/__init__.py
+[1.301s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/srv/_vending_machine.py
+[1.301s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/srv/_vending_machine_s.c
+[1.301s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/vending_machine_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.301s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/vending_machine_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.301s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/vending_machine_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.302s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/vending_machine_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.302s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/vending_machine_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.302s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/vending_machine_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.302s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/ament_index/resource_index/rust_packages/vending_machine_interfaces
+[1.302s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/rust/Cargo.toml
+[1.302s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/rust/build.rs
+[1.302s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/rust/src/lib.rs
+[1.302s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/rust/src/srv.rs
+[1.302s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/rust/src/srv/rmw.rs
+[1.303s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/srv/VendingMachine.idl
+[1.303s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/srv/VendingMachine.srv
+[1.303s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/srv/VendingMachine_Request.msg
+[1.303s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/srv/VendingMachine_Response.msg
+[1.303s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/ament_index/resource_index/package_run_dependencies/vending_machine_interfaces
+[1.303s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/ament_index/resource_index/parent_prefix_path/vending_machine_interfaces
+[1.303s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/environment/ament_prefix_path.sh
+[1.303s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/environment/ament_prefix_path.dsv
+[1.303s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/environment/path.sh
+[1.303s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/environment/path.dsv
+[1.303s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/local_setup.bash
+[1.304s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/local_setup.sh
+[1.304s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/local_setup.zsh
+[1.304s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/local_setup.dsv
+[1.304s] -- Symlinking: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/package.dsv
+[1.309s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/ament_index/resource_index/packages/vending_machine_interfaces
+[1.309s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/rosidl_cmake-extras.cmake
+[1.309s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.309s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[1.310s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[1.310s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.310s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.310s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.310s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/vending_machine_interfacesConfig.cmake
+[1.310s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/vending_machine_interfacesConfig-version.cmake
+[1.310s] -- Up-to-date symlink: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/package.xml
+[1.310s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/lib/libvending_machine_interfaces__rosidl_generator_c.so
+[1.310s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/lib/libvending_machine_interfaces__rosidl_typesupport_fastrtps_c.so
+[1.310s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/lib/libvending_machine_interfaces__rosidl_typesupport_introspection_c.so
+[1.311s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/lib/libvending_machine_interfaces__rosidl_typesupport_c.so
+[1.311s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/lib/libvending_machine_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[1.311s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/lib/libvending_machine_interfaces__rosidl_typesupport_introspection_cpp.so
+[1.311s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/lib/libvending_machine_interfaces__rosidl_typesupport_cpp.so
+[1.344s] Listing '/home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces'...
+[1.344s] Compiling '/home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/__init__.py'...
+[1.344s] Listing '/home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages/vending_machine_interfaces/srv'...
+[1.347s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/lib/libvending_machine_interfaces__rosidl_generator_py.so
+[1.347s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/export_vending_machine_interfaces__rosidl_generator_cExport.cmake
+[1.347s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/export_vending_machine_interfaces__rosidl_generator_cExport-noconfig.cmake
+[1.347s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/export_vending_machine_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[1.347s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/export_vending_machine_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.347s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/vending_machine_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[1.347s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/vending_machine_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.347s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/vending_machine_interfaces__rosidl_typesupport_cExport.cmake
+[1.347s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/vending_machine_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[1.347s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/export_vending_machine_interfaces__rosidl_generator_cppExport.cmake
+[1.347s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/export_vending_machine_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.348s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/export_vending_machine_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.348s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/vending_machine_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[1.348s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/vending_machine_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.348s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/vending_machine_interfaces__rosidl_typesupport_cppExport.cmake
+[1.348s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/vending_machine_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[1.348s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/export_vending_machine_interfaces__rosidl_generator_pyExport.cmake
+[1.348s] -- Up-to-date: /home/parimala/vending_machine_ws/install/vending_machine_interfaces/share/vending_machine_interfaces/cmake/export_vending_machine_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[1.350s] Invoked command in '/home/parimala/vending_machine_ws/build/vending_machine_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parimala/ros2_ws/install/launch_testing_examples:/home/parimala/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/parimala/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/parimala/ros2_ws/install/examples_rclpy_minimal_service:/home/parimala/ros2_ws/install/examples_rclpy_minimal_publisher:/home/parimala/ros2_ws/install/examples_rclpy_minimal_client:/home/parimala/ros2_ws/install/examples_rclpy_minimal_action_server:/home/parimala/ros2_ws/install/examples_rclpy_minimal_action_client:/home/parimala/ros2_ws/install/examples_rclpy_guard_conditions:/home/parimala/ros2_ws/install/examples_rclpy_executors:/home/parimala/ros2_ws/install/even_odd_numbers:/opt/ros/humble /usr/bin/cmake --install /home/parimala/vending_machine_ws/build/vending_machine_interfaces

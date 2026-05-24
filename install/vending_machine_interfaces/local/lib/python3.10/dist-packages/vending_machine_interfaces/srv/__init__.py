@@ -1,0 +1,1 @@
+/home/parimala/vending_machine_ws/build/vending_machine_interfaces/rosidl_generator_py/vending_machine_interfaces/srv/__init__.py

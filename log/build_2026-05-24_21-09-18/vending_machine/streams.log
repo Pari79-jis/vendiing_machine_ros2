@@ -1,0 +1,25 @@
+[0.590s] Invoking command in '/home/parimala/vending_machine_ws/build/vending_machine': AMENT_PREFIX_PATH=/home/parimala/vending_machine_ws/install/vending_machine_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/parimala/vending_machine_ws/install/vending_machine_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/parimala/vending_machine_ws/install/vending_machine_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/parimala/vending_machine_ws/build/vending_machine/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parimala/vending_machine_ws/install/vending_machine/lib/python3.10/site-packages:/home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/parimala/vending_machine_ws/build/vending_machine/build --no-deps symlink_data
+[0.788s] running develop
+[0.909s] running egg_info
+[0.909s] creating vending_machine.egg-info
+[0.909s] writing vending_machine.egg-info/PKG-INFO
+[0.909s] writing dependency_links to vending_machine.egg-info/dependency_links.txt
+[0.909s] writing entry points to vending_machine.egg-info/entry_points.txt
+[0.909s] writing requirements to vending_machine.egg-info/requires.txt
+[0.910s] writing top-level names to vending_machine.egg-info/top_level.txt
+[0.910s] writing manifest file 'vending_machine.egg-info/SOURCES.txt'
+[0.911s] reading manifest file 'vending_machine.egg-info/SOURCES.txt'
+[0.911s] writing manifest file 'vending_machine.egg-info/SOURCES.txt'
+[0.912s] running build_ext
+[0.912s] Creating /home/parimala/vending_machine_ws/install/vending_machine/lib/python3.10/site-packages/vending-machine.egg-link (link to .)
+[0.913s] Installing vending_client script to /home/parimala/vending_machine_ws/install/vending_machine/lib/vending_machine
+[0.913s] Installing vending_server script to /home/parimala/vending_machine_ws/install/vending_machine/lib/vending_machine
+[0.913s] 
+[0.913s] Installed /home/parimala/vending_machine_ws/build/vending_machine
+[0.913s] running symlink_data
+[0.913s] creating /home/parimala/vending_machine_ws/install/vending_machine/share/ament_index
+[0.913s] creating /home/parimala/vending_machine_ws/install/vending_machine/share/ament_index/resource_index
+[0.913s] creating /home/parimala/vending_machine_ws/install/vending_machine/share/ament_index/resource_index/packages
+[0.913s] symbolically linking /home/parimala/vending_machine_ws/build/vending_machine/resource/vending_machine -> /home/parimala/vending_machine_ws/install/vending_machine/share/ament_index/resource_index/packages
+[0.913s] symbolically linking /home/parimala/vending_machine_ws/build/vending_machine/package.xml -> /home/parimala/vending_machine_ws/install/vending_machine/share/vending_machine
+[0.931s] Invoked command in '/home/parimala/vending_machine_ws/build/vending_machine' returned '0': AMENT_PREFIX_PATH=/home/parimala/vending_machine_ws/install/vending_machine_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/parimala/vending_machine_ws/install/vending_machine_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/parimala/vending_machine_ws/install/vending_machine_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/parimala/vending_machine_ws/build/vending_machine/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parimala/vending_machine_ws/install/vending_machine/lib/python3.10/site-packages:/home/parimala/vending_machine_ws/install/vending_machine_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/parimala/vending_machine_ws/build/vending_machine/build --no-deps symlink_data

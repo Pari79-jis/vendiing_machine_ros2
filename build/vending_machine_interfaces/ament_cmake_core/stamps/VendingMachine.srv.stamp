@@ -1,0 +1,11 @@
+string selected_item
+float64 amount_inserted
+string superhero_choice
+---
+bool success
+string message
+float64 change
+float64 remaining_amount
+string reward_message
+string sunday_special
+string bible_verse

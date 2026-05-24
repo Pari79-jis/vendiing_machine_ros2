@@ -1,0 +1,1 @@
+/home/parimala/vending_machine_ws/build/vending_machine_interfaces/ament_cmake_environment_hooks/local_setup.zsh

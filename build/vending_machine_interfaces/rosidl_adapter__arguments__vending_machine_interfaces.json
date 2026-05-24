@@ -1,0 +1,6 @@
+{
+  "package_name": "vending_machine_interfaces",
+  "non_idl_tuples": [
+    "/home/parimala/vending_machine_ws/src/vending_machine_interfaces:srv/VendingMachine.srv"
+  ]
+}
