@@ -1,4 +1,0 @@
-srv/VendingMachine.idl
-srv/VendingMachine.srv
-srv/VendingMachine_Request.msg
-srv/VendingMachine_Response.msg

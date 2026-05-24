@@ -1,4 +1,0 @@
-source;share/vending_machine_interfaces/local_setup.bash
-source;share/vending_machine_interfaces/local_setup.dsv
-source;share/vending_machine_interfaces/local_setup.sh
-source;share/vending_machine_interfaces/local_setup.zsh

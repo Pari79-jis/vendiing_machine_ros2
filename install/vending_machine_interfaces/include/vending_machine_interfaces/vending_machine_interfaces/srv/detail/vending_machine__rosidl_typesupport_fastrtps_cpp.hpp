@@ -1,1 +1,0 @@
-/home/parimala/vending_machine_ws/build/vending_machine_interfaces/rosidl_typesupport_fastrtps_cpp/vending_machine_interfaces/srv/detail/vending_machine__rosidl_typesupport_fastrtps_cpp.hpp

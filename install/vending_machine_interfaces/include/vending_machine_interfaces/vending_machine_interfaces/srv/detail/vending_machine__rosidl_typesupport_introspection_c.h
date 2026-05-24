@@ -1,1 +1,0 @@
-/home/parimala/vending_machine_ws/build/vending_machine_interfaces/rosidl_typesupport_introspection_c/vending_machine_interfaces/srv/detail/vending_machine__rosidl_typesupport_introspection_c.h

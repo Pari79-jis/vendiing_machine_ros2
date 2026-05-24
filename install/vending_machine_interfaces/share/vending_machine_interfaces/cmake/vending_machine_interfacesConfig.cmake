@@ -1,1 +1,0 @@
-/home/parimala/vending_machine_ws/build/vending_machine_interfaces/ament_cmake_core/vending_machine_interfacesConfig.cmake

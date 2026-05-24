@@ -1,1 +1,0 @@
-/home/parimala/vending_machine_ws/build/vending_machine_interfaces/rosidl_generator_rs/vending_machine_interfaces/rust/src/lib.rs
